@@ -1,7 +1,7 @@
 # cloud-1
-NB: this environment is no longer running due to the cost
+### NB: this environment is no longer running due to the cost
 
-## "In this project, you will discover the very bases of the "cloud", what auto-scalingg,load-balancing, CDN... mean"
+## "In this project, you will discover the very bases of the "cloud", what auto-scaling,load-balancing, CDN... mean"
 For this project I used three of Amazon's web services to host a wordpress site on the "cloud".
 
 http://thisisdom-env.eba-39iu8itx.us-east-1.elasticbeanstalk.com/
